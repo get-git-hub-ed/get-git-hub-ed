@@ -8,8 +8,7 @@ Data Science & Deep Learning Enthusiast | EXTC UG
 * ✉️  You can contact me at [abhisheksinghqq10@gmail.com](mailto:abhisheksinghqq10@gmail.com)
 * 🧠  I'm learning .Net, C#, MongoDB
 * 🤝  I'm open to collaborating on Web Dev, Deep Learning
-* ⚡  I like learning new technologies but get confused over where to start with.
-
+* ⚡  I like learning new technologies.
 ### Skills
 
 
